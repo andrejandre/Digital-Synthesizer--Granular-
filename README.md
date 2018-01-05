@@ -4,7 +4,7 @@ and learning experience. Pictures, schematics, and code is available in this rep
 of the details of the project.
 
 This repository stores documentation that can help analyze and/or reproduce this digital synthesizer. The source code
-(which I have adapted) and inspiration for this project is based off Peter Knight's work ---> http://tinker.it
+(which I have adapted) and inspiration for this project is based off Peter Knight's work: https://code.google.com/archive/p/tinkerit/
 
 Any questions about my rendition of this digital synthesizer can be directed to my github profile or to andreunsal@gmail.com.
 
