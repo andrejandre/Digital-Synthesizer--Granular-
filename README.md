@@ -1,5 +1,5 @@
 # Digital-Synthesizer--Granular-
-This is a digital synthesizer I've created using the ATMEGA32 controller and arduino firmware as a hobby
+This is a digital synthesizer I've created using the ATMEGA328 controller and arduino firmware as a hobby
 and learning experience. Pictures, schematics, and code is available in this repository to gain a better understanding
 of the details of the project.
 
