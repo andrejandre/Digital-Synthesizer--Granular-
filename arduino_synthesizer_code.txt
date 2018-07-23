@@ -1,4 +1,3 @@
-// Thanks to Peter Knight for providing open source synthesizer code
 //Analog 0 = Grain 1 pitch
 //Analog 1 = Grain 2 decay
 //Analog 2 = Grain 1 decay
