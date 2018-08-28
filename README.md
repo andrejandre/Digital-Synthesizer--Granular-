@@ -17,4 +17,3 @@ Enjoy.
 
 ![alt text](https://github.com/andrejandre/Digital-Synthesizer--Granular-/blob/master/Synth_Internal2.JPG)
 
-![alt text](https://github.com/andrejandre/Digital-Synthesizer--Granular-/blob/master/Arduino_Syntheszier_Schematic.pdf)
